@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class test2 {
@@ -9,7 +10,6 @@ public class test2 {
         double x = 3.33;
         double g = Math.round(x);
         System.out.println(g);
-
 
     }
 
